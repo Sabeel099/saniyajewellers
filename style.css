@@ -32,7 +32,11 @@ video {
    Header - Mobile First Design
    ========================================================================== */
 .custom-header {
-  background: radial-gradient( #f1cd62);
+  background: radial-gradient(circle at center, #fff9e6 0%,
+  #ffe175 30%,
+  #facc15 60%,
+  #e6b368 85%,
+  #eab308 100%);
   text-align: center;
   padding: 2rem 1rem 6rem;
   position: relative;
