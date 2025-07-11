@@ -94,13 +94,14 @@ video {
   padding: 0.3rem 0.6rem;
   margin-top: 0.75rem;
   display: inline-block;
-  border: 2px solid #1e293b;       /* Dark navy border */
-  border-radius: 8px;              /* Rounded corners */
-  background-color: #fff9e6;       /* Soft yellow background */
-  color: #1e293b;                  /* Dark text color */
+  border: 2px solid #0077b6;           /* Soft blue border */
+  border-radius: 8px;
+  background-color: #e0f3ff;           /* Soft blue background */
+  color: #00334e;                      /* Dark blue text */
   font-weight: 600;
-  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);  /* Subtle shadow */
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
 }
+
 
 
 .address-text {
